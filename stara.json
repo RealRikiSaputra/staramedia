@@ -1,0 +1,151 @@
+{
+  "tv": {
+    "stara_tv_bandung": {
+      "nama": "Stara TV Bandung",
+      "keterangan": "Informasi dan hiburan lokal Bandung",
+      "kota": "Bandung",
+      "link": "https://bandung.staratv.id/hls/stream.m3u8",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/fir-crud-c7e20.appspot.com/o/logo%2Fstaratv.png?alt=media",
+      "website": "https://bandung.staratv.id",
+      "konsul": "6285199182977",
+      "req": "628113343535",
+      "marketplace": {
+        "lazada": {
+          "label": "Order di Lazada",
+          "url": "https://www.lazada.co.id/shop/cx8rtzbd/"
+        },
+        "shopee": {
+          "label": "Order di Shopee",
+          "url": "https://shopee.co.id/habustrongpanomax.bandung"
+        },
+        "tiktok": {
+          "label": "Order di TikTok",
+          "url": "https://vt.tiktok.com/ZSUWXKbw9/"
+        },
+        "wa": {
+          "label": "Order di WhatsApp",
+          "url": "6285119895454"
+        }
+      }
+    },
+
+    "stara_tv_jakarta": {
+      "nama": "Stara TV Jakarta",
+      "keterangan": "Berita dan lifestyle Jabodetabek",
+      "kota": "Jakarta",
+      "link": "https://jakarta.staratv.id/hls/stream.m3u8",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/fir-crud-c7e20.appspot.com/o/logo%2Fstaratv.png?alt=media",
+      "website": "https://jakarta.staratv.id",
+      "konsul": "628111111111",
+      "req": "628122222222",
+      "marketplace": {
+        "lazada": {
+          "label": "Order di Lazada",
+          "url": "https://www.lazada.co.id/shop/jakarta"
+        },
+        "shopee": {
+          "label": "Order di Shopee",
+          "url": "https://shopee.co.id/jakarta"
+        },
+        "tiktok": {
+          "label": "Order di TikTok",
+          "url": "https://vt.tiktok.com/ZSUJakarta/"
+        },
+        "wa": {
+          "label": "Order di WhatsApp",
+          "url": "628588888888"
+        }
+      }
+    },
+
+    "stara_tv_yogyakarta": {
+      "nama": "Stara TV Yogyakarta",
+      "keterangan": "Budaya, wisata, dan UMKM Jogja",
+      "kota": "Yogyakarta",
+      "link": "https://jogja.staratv.id/hls/stream.m3u8",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/fir-crud-c7e20.appspot.com/o/logo%2Fstaratv.png?alt=media",
+      "website": "https://jogja.staratv.id",
+      "konsul": "628533333333",
+      "req": "628544444444",
+      "marketplace": {
+        "lazada": {
+          "label": "Order di Lazada",
+          "url": "https://www.lazada.co.id/shop/jogja"
+        },
+        "shopee": {
+          "label": "Order di Shopee",
+          "url": "https://shopee.co.id/jogja"
+        },
+        "tiktok": {
+          "label": "Order di TikTok",
+          "url": "https://vt.tiktok.com/ZSUJogja/"
+        },
+        "wa": {
+          "label": "Order di WhatsApp",
+          "url": "628566666666"
+        }
+      }
+    },
+
+    "stara_tv_surabaya": {
+      "nama": "Stara TV Surabaya",
+      "keterangan": "Kanal informasi dan bisnis Jawa Timur",
+      "kota": "Surabaya",
+      "link": "https://surabaya.staratv.id/hls/stream.m3u8",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/fir-crud-c7e20.appspot.com/o/logo%2Fstaratv.png?alt=media",
+      "website": "https://surabaya.staratv.id",
+      "konsul": "628577777777",
+      "req": "628588999999",
+      "marketplace": {
+        "lazada": {
+          "label": "Order di Lazada",
+          "url": "https://www.lazada.co.id/shop/surabaya"
+        },
+        "shopee": {
+          "label": "Order di Shopee",
+          "url": "https://shopee.co.id/surabaya"
+        },
+        "tiktok": {
+          "label": "Order di TikTok",
+          "url": "https://vt.tiktok.com/ZSUSby/"
+        },
+        "wa": {
+          "label": "Order di WhatsApp",
+          "url": "628599999999"
+        }
+      }
+    }
+  },
+
+  "radio": {
+    "arjuna_fm": {
+      "radio": "Arjuna FM",
+      "freq": "107.7 FM",
+      "kota": "Cilacap",
+      "link": "https://stream.pasopatiradio.com/arjunafm",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/fir-crud-c7e20.appspot.com/o/logo%2FArjuna%20FM.png?alt=media",
+      "website": "https://pasopatiradio.com/arjuna-fm",
+      "request": "6287719030107"
+    },
+
+    "stara_radio_bandung": {
+      "radio": "Stara Radio Bandung",
+      "freq": "101.2 FM",
+      "kota": "Bandung",
+      "link": "https://stream.stararadio.id/bandung",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/fir-crud-c7e20.appspot.com/o/logo%2Fstararadio.png?alt=media",
+      "website": "https://bandung.stararadio.id",
+      "request": "628777777777"
+    },
+
+    "stara_radio_jakarta": {
+      "radio": "Stara Radio Jakarta",
+      "freq": "103.5 FM",
+      "kota": "Jakarta",
+      "link": "https://stream.stararadio.id/jakarta",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/fir-crud-c7e20.appspot.com/o/logo%2Fstararadio.png?alt=media",
+      "website": "https://jakarta.stararadio.id",
+      "request": "628788888888"
+    }
+  }
+}
